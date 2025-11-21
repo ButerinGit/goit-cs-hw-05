@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Output folders
+output/
+top_words.png
+
+# IDE settings
+.vscode/
+.idea/
